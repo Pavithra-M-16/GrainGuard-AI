@@ -1,0 +1,381 @@
+ID,SampCode,Country,Region,District,Village,Lat,Long,Altitude,Educat,Wealth,AwarMyco,Crop,PrevCrop,DryMeth,StorType,StorLeng,AflaB1,AflaB2,AflaG1,AflaG2,TotalAfla
+1,0906/MA/Babati/04,Tanzania,Manyaara,Babati,Masware,-4.07868,35.70832,1052,7,1,1,Maize,2,1,1,,0,0,1,0,1
+2,1006/MA/Babati/12,Tanzania,Manyaara,Babati,Gichameda,-3.98063,35.70475,1026,7,1,1,Maize,2,,0,,14.4,0.9,1,0.1,16.4
+3,1106/MA/Babati/17,Tanzania,Manyaara,Babati,Masware,-4.04777,35.71311,1050,0,1,1,Maize,2,1,1,,0,0,1.5,0.1,1.6
+4,1106/MA/Babati/19,Tanzania,Manyaara,Babati,Gichameda,-3.97054,35.73888,1006,0,1,1,Maize,2,,0,,0,0,0,0.1,0.1
+5,1206/MA/Babati/25,Tanzania,Manyaara,Babati,Mapea,-3.98873,35.75903,997,13,0,,Maize,2,1,1,,21,2.4,1.3,0.1,24.6
+6,1206/MA/Babati/27,Tanzania,Manyaara,Babati,Mapea,-4.01207,35.76,1007,13,0,,Maize,2,,0,,16.1,2,1,0,19.1
+7,1506/MA/Babati/34,Tanzania,Manyaara,Babati,Bashnet,-4.25901,35.43849,2075,7,1,1,Maize,2,1,1,365,0,0,0,0,0
+8,1506/MA/Babati/38,Tanzania,Manyaara,Babati,Bashnet,-4.2426,35.42678,2112,7,1,1,Maize,2,,0,730,0,,0,0,0
+9,1506/MA/Babati/44,Tanzania,Manyaara,Babati,Qameyu,-4.1884,35.48169,2189,7,1,1,Maize,3,1,1,270,0,0,0,0,0
+10,1506/MA/Babati/46,Tanzania,Manyaara,Babati,Qameyu,-4.19175,35.46952,2231,7,1,1,Maize,3,,0,270,0,0,0,0,0
+11,1506/MA/Babati/50,Tanzania,Manyaara,Babati,Qameyu,-4.18546,35.47559,2222,13,0,1,Maize,2,1,1,270,0,0,1.1,0.1,1.1
+12,1606/MA/Babati/54,Tanzania,Manyaara,Babati,Bermi,-4.23178,35.52142,1626,13,0,1,Maize,2,,0,300,0,0,0,0,0
+13,1606/MA/Babati/58,Tanzania,Manyaara,Babati,Bermi,-4.24399,35.52338,1606,7,1,1,Maize,3,1,1,,0,0,1.1,0.1,1.2
+14,1606/MA/Babati/64,Tanzania,Manyaara,Babati,Riroda,-4.30778,35.66639,1369,7,1,1,Maize,3,,0,,0,0,1.7,0.1,1.8
+15,1706/MA/Babati/70,Tanzania,Manyaara,Babati,Mamire,-4.16694,35.8433,1262,7,1,1,Maize,2,1,1,365,23.5,2.9,1.1,0,27.5
+16,1706/MA/Babati/74,Tanzania,Manyaara,Babati,Mamire,-4.14497,35.84803,1221,7,1,1,Maize,2,,0,365,0.6,0,0,0,0.6
+17,1806/MA/Babati/82,Tanzania,Manyaara,Babati,Endanoga,-4.28652,35.86796,1288,11,0,1,Maize,3,1,1,,0,0,0,0,0
+18,1806/MA/Babati/85,Tanzania,Manyaara,Babati,Endanoga,-4.28151,35.86806,1292,11,0,1,Maize,3,,0,,1.6,0.3,1.2,0.1,3.2
+19,1806/MA/Babati/93,Tanzania,Manyaara,Babati,Erri,-4.08973,35.60772,1272,7,0,1,Maize,3,1,1,,0,0,0,0.1,0.1
+20,1806/MA/Babati/96,Tanzania,Manyaara,Babati,Erri,-4.11651,35.63297,1112,7,0,1,Maize,3,,0,,0,0,1.7,0.2,1.9
+21,0906/MA/Hanang/05,Tanzania,Manyaara,Hanang,Gendabi,-4.42444,35.35017,1792,7,1,2,Maize,4,1,0,,0,0,0,0,0
+22,0906/MA/Hanang/07,Tanzania,Manyaara,Hanang,Gitting,-4.40847,35.45788,1747,11,0,2,Maize,4,1,0,,0,0,0,0,0
+23,0906/MA/Hanang/09,Tanzania,Manyaara,Hanang,Gitting,-4.3908,35.46091,1721,11,0,2,Maize,2,1,0,,0,0,0,0,0
+24,1006/MA/Hanang/18,Tanzania,Manyaara,Hanang,Nangwa,-4.49734,35.44377,1745,11,0,2,Maize,2,1,0,,0,0,1,0,1
+25,1006/MA/Hanang/20,Tanzania,Manyaara,Hanang,Nangwa,-4.48772,35.43686,1830,7,0,2,Maize,2,1,0,,0,0,0,0,0
+26,1006/MA/Hanang/21,Tanzania,Manyaara,Hanang,Nangwa,-4.50784,35.42672,1729,7,1,2,Maize,2,1,0,,0,0,0,0,0
+27,1106/MA/Hanang/27,Tanzania,Manyaara,Hanang,Balangidalalu,-4.61076,35.29675,1455,13,0,2,Maize,2,1,0,,0,0,0,0,0
+28,1106/MA/Hanang/29,Tanzania,Manyaara,Hanang,Balangidalalu,-4.63846,35.27765,1412,7,0,2,Maize,3,1,0,6,0,0,0,0,0
+29,1106/MA/Hanang/32,Tanzania,Manyaara,Hanang,Gehandu,-4.6574,35.18671,1709,7,0,2,Maize,2,1,0,,0,0,0,0,0
+30,1106/MA/Hanang/34,Tanzania,Manyaara,Hanang,Gehandu,-4.64708,35.16523,1652,7,0,2,Maize,2,1,0,,0,0,1.7,0.1,1.8
+31,1206/MA/Hanang/43,Tanzania,Manyaara,Hanang,Galangal,-4.39787,35.16513,1746,7,1,2,Maize,,1,0,7,0,0,0,0,0
+32,1206/MA/Hanang/45,Tanzania,Manyaara,Hanang,Galangal,-4.4,35.15509,1728,11,0,2,Maize,4,1,1,7,0,0,0,0,0
+33,1206/MA/Hanang/48,Tanzania,Manyaara,Hanang,Gidika,-4.43642,35.02035,1745,0,0,2,Maize,2,1,0,14,0,0,0,0,0
+34,1206/MA/Hanang/50,Tanzania,Manyaara,Hanang,Gidika,-4.4329,35.01442,1723,0,1,2,Maize,3,1,0,,0,0,0,0,0
+35,1306/MA/Hanang/60,Tanzania,Manyaara,Hanang,Masakta,-4.28316,35.5429,1606,7,0,2,Maize,2,1,0,,0,0,0,0.1,0.1
+36,1306/MA/Hanang/62,Tanzania,Manyaara,Hanang,Masakta,-4.28629,35.56375,1581,7,1,2,Maize,2,1,0,,0,0,1.3,0.1,1.3
+37,1306/MA/Hanang/65,Tanzania,Manyaara,Hanang,Waranga,-4.77283,35.50194,1447,7,0,2,Maize,3,1,0,,0,0,0,0,0
+38,1306/MA/Hanang/67,Tanzania,Manyaara,Hanang,Waranga,-4.75791,35.5197,1446,7,1,2,Maize,3,1,0,14,0,0,0,0,0
+39,1306/MA/Hanang/70,Tanzania,Manyaara,Hanang,Simbay,-4.5531,35.55077,1484,7,1,2,Maize,2,1,1,,0,0,0,0,0
+40,1306/MA/Hanang/72,Tanzania,Manyaara,Hanang,Simbay,-4.5627,35.55798,1503,11,1,2,Maize,2,1,1,7,0.6,0,0,0,0.6
+41,2006/MA/Kiteto/05,Tanzania,Manyaara,Kiteto,Bwagamoyo,-5.30993,36.57766,1547,13,0,1,Maize,2,1,0,,0,0,0,0,0
+42,2006/MA/Kiteto/07,Tanzania,Manyaara,Kiteto,Bwagamoyo,-5.31471,36.59093,1544,7,1,1,Maize,2,1,0,,0,0,0,0.1,0.1
+43,2006/MA/Kiteto/13,Tanzania,Manyaara,Kiteto,Kibaya,-5.30386,36.55888,1582,0,0,1,Maize,2,,0,,0,0,0,0.1,0.1
+44,2106/MA/Kiteto/18,Tanzania,Manyaara,Kiteto,Kibaya,-5.31076,36.55767,1569,11,1,1,Maize,2,1,0,,0,0,0,0.1,0.1
+45,2106/MA/Kiteto/24,Tanzania,Manyaara,Kiteto,Mwitikira,-5.10149,36.35426,1432,7,1,1,Maize,2,1,0,,0,0,0,0,0
+46,2106/MA/Kiteto/29,Tanzania,Manyaara,Kiteto,Mwitikira,-5.09599,36.35196,1441,0,1,1,Maize,2,1,0,,0,0,0,0.1,0.1
+47,2106/MA/Kiteto/34,Tanzania,Manyaara,Kiteto,Njoro,-5.24692,36.45273,1526,7,0,1,Maize,2,1,0,,0,0,0,0.1,0.1
+48,2106/MA/Kiteto/39,Tanzania,Manyaara,Kiteto,Njoro,-5.25607,36.46276,1553,0,1,1,Maize,2,1,0,,0.5,0.1,0,0,0.5
+49,1107/MA/Kiteto/43,Tanzania,Manyaara,Kiteto,Laalala,-5.43998,36.46057,1520,11,0,1,Maize,2,1,0,,0,0,0,0.1,0.1
+50,1107/MA/Kiteto/46,Tanzania,Manyaara,Kiteto,Laalala,-5.44141,36.45884,1522,7,0,2,Maize,2,1,0,,0,0,0,0,0
+51,1107/MA/Kiteto/52,Tanzania,Manyaara,Kiteto,Ndaleta,-5.20791,36.4865,1583,7,0,2,Maize,3,1,0,,0,0,0,0.1,0.1
+52,1107/MA/Kiteto/54,Tanzania,Manyaara,Kiteto,Ndaleta,-5.22139,36.48933,1563,11,0,2,Maize,3,1,0,,0.7,0,0,0.1,0.8
+53,1207/MA/Kiteto/64,Tanzania,Manyaara,Kiteto,Dosidosi,-5.58944,36.39481,1415,7,1,2,Maize,2,1,0,,0,0,0,0.1,0.1
+54,1207/MA/Kiteto/67,Tanzania,Manyaara,Kiteto,Dosidosi,-5.58571,36.43786,1552,7,0,2,Maize,2,1,0,,0,0,0,0.1,0.1
+55,1207/MA/Kiteto/73,Tanzania,Manyaara,Kiteto,Osteti,-5.52636,36.32339,1273,11,0,2,Maize,2,1,0,,0,0,0,0,0
+56,1207/MA/Kiteto/78,Tanzania,Manyaara,Kiteto,Osteti,-5.53647,36.31706,1262,7,0,2,Maize,2,1,0,,0,0,0,0,0
+57,1307/MA/Kiteto/83,Tanzania,Manyaara,Kiteto,Sunya,-5.72655,37.09179,1085,7,0,2,Maize,2,1,0,,0,0,0,0,0
+58,1307/MA/Kiteto/87,Tanzania,Manyaara,Kiteto,Sunya,-5.71938,37.10532,1128,7,0,2,Maize,2,1,0,,0,0,0.8,0.1,0.9
+59,1307/MA/Kiteto/92,Tanzania,Manyaara,Kiteto,Kijungu,-5.41082,37.18357,1391,7,0,2,Maize,2,1,0,,0,0,0,0,0
+60,1307/MA/Kiteto/94,Tanzania,Manyaara,Kiteto,Kijungu,-5.39412,37.18506,1403,7,0,2,Maize,3,1,0,,12.1,0.7,5.6,0.5,18.9
+61,1106/MA/Sumbawanga/01,Tanzania,Rukwa,Sumbawanga,Kaengesa A,-8.26909,31.70481,1675,7,0,2,Maize,,1,1,7,0,0,0,0.1,0.1
+62,1106/MA/Sumbawanga/02,Tanzania,Rukwa,Sumbawanga,Kaengesa,-8.27871,31.73816,1727,7,0,2,Maize,,1,0,,0,0,0,0.1,0.1
+63,1106/MA/Sumbawanga/03,Tanzania,Rukwa,Sumbawanga,Ikozi,-8.39245,31.89562,1579,7,1,2,Maize,4,1,1,7,0,0,0,0,0
+64,1106/MA/Sumbawanga/04,Tanzania,Rukwa,Sumbawanga,Ikozi,-8.39188,31.89718,1607,7,1,2,Maize,4,1,,7,0.5,0,0,0.1,0.5
+65,1106/MA/Sumbawanga/05,Tanzania,Rukwa,Sumbawanga,Mukima,-8.31213,31.82506,1732,7,1,2,Maize,4,1,1,7,0,0,0,0.1,0.1
+66,1106/MA/Sumbawanga/06,Tanzania,Rukwa,Sumbawanga,Mukima,-8.30413,31.8242,1806,7,1,2,Maize,4,1,1,14,0,0,0,0,0
+67,1106/MA/Sumbawanga/07,Tanzania,Rukwa,Sumbawanga,Malolwa,-8.25825,31.82176,1923,7,0,2,Maize,2,1,1,3,0,0,1.5,0.1,1.7
+68,1106/MA/Sumbawanga/08,Tanzania,Rukwa,Sumbawanga,Malolwa,-8.25208,31.82714,1924,0,1,2,Maize,2,1,1,14,0,,0,0.1,0.1
+69,1106/MA/Sumbawanga/09,Tanzania,Rukwa,Sumbawanga,Jangwani,-8.18613,31.85196,2093,7,1,2,Maize,3,1,1,30,0.5,0,0,0.1,0.5
+70,1106/MA/Sumbawanga/10,Tanzania,Rukwa,Sumbawanga,Jangwani,-8.19052,31.84916,2100,7,0,2,Maize,4,1,1,3,0.6,0.1,1.9,0.1,2.7
+71,1206/MA/Sumbawanga/11,Tanzania,Rukwa,Sumbawanga,Katuka,-8.11627,31.52584,1852,7,1,2,Maize,4,1,1,3,0,0,0,0,0
+72,1206/MA/Sumbawanga/12,Tanzania,Rukwa,Sumbawanga,Katuka,-8.14105,31.51759,1806,7,1,2,Maize,4,1,1,3,0.6,0.1,1.1,0.1,1.9
+73,1206/MA/Sumbawanga/13,Tanzania,Rukwa,Sumbawanga,Msanzi,-8.1877,31.52302,1787,11,1,2,Maize,4,1,1,8,0.5,0,0.9,0.1,1.6
+74,1206/MA/Sumbawanga/14,Tanzania,Rukwa,Sumbawanga,Msanzi,-8.20306,31.52101,1777,7,1,2,Maize,2,1,1,14,0.6,0,1.9,0.1,2.6
+75,1206/MA/Sumbawanga/15,Tanzania,Rukwa,Sumbawanga,Singiwe,-8.24682,31.52726,1762,7,1,2,Maize,4,1,1,21,0,0,0,0,0
+76,1206/MA/Sumbawanga/16,Tanzania,Rukwa,Sumbawanga,Singiwe,-8.24403,31.52429,1757,7,0,2,Maize,2,1,1,21,0,0,0,0,0
+77,1206/MA/Sumbawanga/17,Tanzania,Rukwa,Sumbawanga,Matai B,-8.2982,31.52248,1725,7,1,2,Maize,2,1,1,1,0,0,0,0.1,0.1
+78,1206/MA/Sumbawanga/18,Tanzania,Rukwa,Sumbawanga,Matai B,-8.29608,31.52009,1706,7,1,2,Maize,2,1,1,6,0,0,0,0.1,0.1
+79,1206/MA/Sumbawanga/19,Tanzania,Rukwa,Sumbawanga,Mbuza,-8.26856,31.41006,1700,7,1,2,Maize,2,1,0,,0,0,0,0,0
+80,1206/MA/Sumbawanga/20,Tanzania,Rukwa,Sumbawanga,Mbuza,-8.27998,31.45053,1678,7,1,1,Maize,3,1,1,5,0,0,0,0,0
+81,1306/MA/Nkasi/01,Tanzania,Rukwa,Nkasi,Isale,-7.63626,31.08097,1635,7,0,2,Maize,4,1,,,0,0,0,0,0
+82,1306/MA/Nkasi/02,Tanzania,Rukwa,Nkasi,Isale,-7.63546,31.05267,1607,7,0,2,Maize,2,1,,,0,0,0,0,0
+83,1306/MA/Nkasi/03,Tanzania,Rukwa,Nkasi,Ntalamila,-7.85642,31.24544,1703,7,1,2,Maize,2,1,1,1,,,,,
+84,1306/MA/Nkasi/04,Tanzania,Rukwa,Nkasi,Ntalamila,-7.88145,31.25796,1665,7,1,2,Maize,2,1,,,0,0,0,0,0
+85,1306/MA/Nkasi/05,Tanzania,Rukwa,Nkasi,Nkomanchindo,-7.91672,31.27177,1696,13,0,2,Maize,2,1,,,0,0,1.1,0.1,1.2
+86,1306/MA/Nkasi/06,Tanzania,Rukwa,Nkasi,Nkomanchindo,-7.91665,31.26711,1681,7,0,2,Maize,2,1,1,12,0,0,0,0,0
+87,1306/MA/Nkasi/07,Tanzania,Rukwa,Nkasi,Kalundi,-7.86748,31.3696,1865,11,0,2,Maize,4,1,1,9,0,0,0,0,0
+88,1306/MA/Nkasi/08,Tanzania,Rukwa,Nkasi,Kalundi,-7.8659,31.3786,1868,7,0,2,Maize,4,1,,,0,,0,0,0
+89,1306/MA/Nkasi/09,Tanzania,Rukwa,Nkasi,Milundikwa,-7.6895,31.37379,1864,7,0,2,Maize,3,1,,,0,0,0,0,0
+90,1306/MA/Nkasi/10,Tanzania,Rukwa,Nkasi,Milundikwa,-7.68976,31.35538,1913,11,1,2,Maize,2,1,,,0.6,0,1.7,0.1,2.4
+91,1306/MA/Nkasi/11,Tanzania,Rukwa,Nkasi,Swaila,-7.56572,31.38259,1859,7,0,2,Maize,3,1,1,7,0.7,0,1.5,0.1,2.4
+92,1306/MA/Nkasi/12,Tanzania,Rukwa,Nkasi,Swaila,-7.58106,31.38127,1862,7,0,2,Maize,3,1,,,0,0,0,0,0
+93,1306/MA/Nkasi/13,Tanzania,Rukwa,Nkasi,Chala - B,-7.59293,31.26967,1753,7,1,2,Maize,4,1,1,7,0,0,0,0,0
+94,1306/MA/Nkasi/14,Tanzania,Rukwa,Nkasi,Chala - A,-7.60203,31.27454,1761,11,1,2,Maize,4,1,1,,0,0,0,0,0
+95,1306/MA/Nkasi/15,Tanzania,Rukwa,Nkasi,Mtenga,-7.37721,31.11484,1575,11,1,2,Maize,3,1,,,0,0,0,0,0
+96,1306/MA/Nkasi/16,Tanzania,Rukwa,Nkasi,Mtenga,-7.36751,31.10866,1584,7,0,2,Maize,2,1,1,5,0,0,1.1,0,1.1
+97,1406/MA/Nkasi/17,Tanzania,Rukwa,Nkasi,Mkangale,-7.51924,31.05136,1543,11,0,2,Maize,2,1,1,7,0.8,0,0,0.1,0.8
+98,1406/MA/Nkasi/18,Tanzania,Rukwa,Nkasi,Mkangale,-7.52466,31.06242,1563,11,0,2,Maize,2,1,,,0,0,0,0,0
+99,1406/MA/Nkasi/19,Tanzania,Rukwa,Nkasi,Mkole,-7.38197,31.05326,1509,7,1,2,Maize,3,1,1,2,0,0,0,0.1,0.1
+100,1406/MA/Nkasi/20,Tanzania,Rukwa,Nkasi,Mkole,-7.3748,31.05359,1524,11,0,2,Maize,4,1,,,0.6,0,1,0.1,1.7
+101,1806/MA/Ifakara/01,Tanzania,Morogoro,Ifakara,Ihanga,-8.05729,36.36106,270,7,0,2,Maize,2,1,1,56,0,0,0,0.1,0.1
+102,1806/MA/Ifakara/02,Tanzania,Morogoro,Ifakara,Ihanga,-8.05754,36.36064,288,7,0,2,Maize,2,1,1,28,0,0,0,0,0
+103,1806/MA/Ifakara/03,Tanzania,Morogoro,Ifakara,Idete,-8.04809,36.29368,309,7,0,2,Maize,2,1,1,21,0,0,0,0,0
+104,1806/MA/Ifakara/04,Tanzania,Morogoro,Ifakara,Idete,-8.06078,36.50877,280,7,1,2,Maize,2,1,1,14,0,0,0,0,0
+105,1906/MA/Ifakara/05,Tanzania,Morogoro,Ifakara,Machipi,-8.04098,36.39607,268,7,0,2,Maize,2,1,1,14,0,0,0,0,0
+106,1906/MA/Ifakara/06,Tanzania,Morogoro,Ifakara,Machipi,-8.04037,36.3956,282,7,0,2,Maize,2,1,1,70,2.2,0.3,1,0.1,3.6
+107,1906/MA/Ifakara/07,Tanzania,Morogoro,Ifakara,Lungongole,-8.04598,36.4638,293,7,0,2,Maize,4,1,1,7,24.6,1.1,0,0.1,25.8
+108,1906/MA/Ifakara/08,Tanzania,Morogoro,Ifakara,Lungongole,-8.04563,36.46419,311,7,0,2,Maize,2,1,1,14,0.6,0.2,0,0,0.8
+109,1906/MA/Ifakara/09,Tanzania,Morogoro,Ifakara,Sagamaganga,-8.03411,36.48333,260,7,0,2,Maize,2,1,1,7,0.7,0,0,0,0.7
+110,1906/MA/Ifakara/10,Tanzania,Morogoro,Ifakara,Sagamaganga,-8.03265,36.48438,280,7,0,2,Maize,2,1,1,7,2.6,0.2,2,0.3,5.1
+111,1906/MA/Ifakara/11,Tanzania,Morogoro,Ifakara,Signal,-7.59531,36.5003,292,11,1,2,Maize,2,1,1,28,55.7,4.9,7,1,68.6
+112,1906/MA/Ifakara/12,Tanzania,Morogoro,Ifakara,Signal,-7.59495,36.50042,298,7,0,2,Maize,2,1,1,7,14.6,1.8,0,0.1,16.5
+113,1906/MA/Ifakara/13,Tanzania,Morogoro,Ifakara,Kiberege,-7.57166,36.51245,298,7,0,2,Maize,2,1,1,21,77.4,2.3,0.9,0,80.6
+114,1906/MA/Ifakara/14,Tanzania,Morogoro,Ifakara,Kiberege,-7.57162,36.51267,301,7,1,2,Maize,2,1,1,14,57.5,5.1,1,0,63.6
+115,2006/MA/Ifakara/15,Tanzania,Morogoro,Ifakara,Kanolo,-7.5433,36.52595,303,7,1,2,Maize,2,1,1,14,0.8,0,1.1,0.1,2.1
+116,2006/MA/Ifakara/16,Tanzania,Morogoro,Ifakara,Kanolo,-7.54318,36.52176,309,11,0,2,Maize,4,1,1,28,91.2,0.1,1.2,0,92.5
+117,2006/MA/Ifakara/17,Tanzania,Morogoro,Ifakara,"Mang'ula ""A""",-7.50181,36.53996,317,13,0,2,Maize,2,1,1,14,0.8,0.1,1.4,0.1,2.4
+118,2006/MA/Ifakara/18,Tanzania,Morogoro,Ifakara,"Mang'ula ""A""",-7.50228,36.53981,299,7,0,2,Maize,2,1,1,14,0,0,0,0,0
+119,2106/MA/Ifakara/19,Tanzania,Morogoro,Ifakara,"Mang'ula ""A""",-7.51371,36.53741,321,7,0,2,Maize,4,1,,,0,0,0,0.1,0.1
+120,2106/MA/Ifakara/20,Tanzania,Morogoro,Ifakara,Town market Ifakara,-8.08312,36.40728,256,7,0,2,Maize,4,1,,,0,0,0,0,0
+121,1206/MA/KILOSA/01,Tanzania,Morogoro,Kilosa,Zombo,-6.96104,36.9236,519,7,0,2,Maize,2,1,1,,28,2.4,6.6,0.8,37.8
+122,1206/MA/KILOSA/02,Tanzania,Morogoro,Kilosa,Zombo,-6.95907,36.92164,528,7,0,2,Maize,4,1,1,60,0,0,0,0,0
+123,1206/MA/KILOSA/03,Tanzania,Morogoro,Kilosa,Ulaya,-7.07223,36.90578,560,7,0,2,Maize,2,1,1,7,0,0,1.3,0.1,1.4
+124,1206/MA/KILOSA/04,Tanzania,Morogoro,Kilosa,Kisanga,-7.2077,36.44034,780,7,1,2,Maize,2,1,1,28,9.5,1.5,1.4,0.2,12.5
+125,1206/MA/KILOSA/05,Tanzania,Morogoro,Kilosa,Kisanga,-7.20768,36.441,786,7,1,2,Maize,2,1,1,42,0,0,0.9,0.1,1
+126,1306/MA/KILOSA/06,Tanzania,Morogoro,Kilosa,Kisanga,-7.18491,36.4558,767,11,0,2,Maize,4,1,1,56,5.3,1.7,9.3,3,19.3
+127,1306/MA/KILOSA/07,Tanzania,Morogoro,Kilosa,Kisanga,-7.18614,36.45644,762,7,0,2,Maize,4,1,1,84,12.4,2.4,31.1,12,57.9
+128,1306/MA/KILOSA/08,Tanzania,Morogoro,Kilosa,Ruberwa Mbuyuni,-6.41308,37.07546,436,7,0,2,Maize,4,1,1,112,159.5,0.3,2.5,0.1,162.4
+129,1306/MA/KILOSA/09,Tanzania,Morogoro,Kilosa,Mbuyuni,-6.41274,37.07485,404,7,0,2,Maize,2,1,1,112,25.8,3.7,8,1.5,39
+130,1406/MA/KILOSA/10,Tanzania,Morogoro,Kilosa,Lumbiji,-6.36891,36.58904,893,7,1,2,Maize,4,1,1,14,0,0,0,0,0
+131,1406/MA/KILOSA/11,Tanzania,Morogoro,Kilosa,Lumbiji,-6.36887,36.58922,894,7,1,2,Maize,2,2,1,28,0,0,0,0,0
+132,1406/MA/KILOSA/12,Tanzania,Morogoro,Kilosa,Kisongwe,-6.37271,36.59126,919,7,1,2,Maize,4,1,1,308,1.1,0.2,0,0.1,1.3
+133,1406/MA/KILOSA/13,Tanzania,Morogoro,Kilosa,Kisongwe,-6.37565,36.59331,903,7,1,2,Maize,2,,1,,0,0,0,0,0
+134,1406/MA/KILOSA/14,Tanzania,Morogoro,Kilosa,Mvumi,-6.59376,37.17332,431,7,1,2,Maize,2,1,1,21,54.8,0.5,34.1,0.3,89.7
+135,1406/MA/KILOSA/15,Tanzania,Morogoro,Kilosa,Mvumi,-6.35563,37.10402,428,7,0,2,Maize,2,1,1,336,81,11.7,3.9,0.3,96.8
+136,1406/MA/KILOSA/16,Tanzania,Morogoro,Kilosa,Dumila,-6.38263,37.33649,433,7,0,2,Maize,4,1,1,70,11.9,1.9,7.2,3.8,24.7
+137,1406/MA/KILOSA/17,Tanzania,Morogoro,Kilosa,Dumila,-6.22958,37.20189,433,7,0,1,Maize,,1,1,70,96.7,0.4,8.5,0.3,105.9
+138,1406/MA/KILOSA/18,Tanzania,Morogoro,Kilosa,,-6.23036,37.20498,432,7,0,2,Maize,,1,1,,43,11.1,0.9,0,55
+139,1506/MA/KILOSA/19,Tanzania,Morogoro,Kilosa,Ibuti,-6.08108,36.53839,1330,7,1,2,Maize,4,1,1,14,0,0,0.9,0,0.9
+140,1506/MA/KILOSA/20,Tanzania,Morogoro,Kilosa,Ibuti,-6.08147,36.53595,1334,7,1,2,Maize,4,,1,3,0,0,0,0.1,0.1
+141,0507/MA/Makambako/01,Tanzania,Njombe,Makambako,Idofi,-8.47832,34.52132,1663,7,0,2,Maize,2,1,1,7,0,0,1.1,0.1,1.2
+142,0507/MA/Makambako/02,Tanzania,Njombe,Makambako,Idofi,-8.49103,34.52869,1656,7,0,2,Maize,2,1,1,,0,0,0,0,0
+143,0507/MA/Makambako/03,Tanzania,Njombe,Makambako,Mlowa,-8.50934,34.52977,1675,7,0,2,Maize,2,1,1,7,0,0,0,0,0
+144,0507/MA/Makambako/04,Tanzania,Njombe,Makambako,Mlowa,-8.52099,34.53505,1679,7,0,2,Maize,2,1,1,7,0,0,0,0,0
+145,0607/MA/Makambako/05,Tanzania,Njombe,Makambako,Mkolango,-8.55121,34.54653,1638,7,0,2,Maize,2,1,1,14,0,0,0,0,0
+146,0607/MA/Makambako/06,Tanzania,Njombe,Makambako,Mkolango,-8.54737,34.54427,1655,7,0,2,Maize,2,1,1,5,0,0,0.9,0,0.9
+147,0607/MA/Makambako/07,Tanzania,Njombe,Makambako,Mlombwe,-8.54223,34.52021,1667,7,0,2,Maize,2,1,1,21,0,0,0,0,0
+148,0607/MA/Makambako/08,Tanzania,Njombe,Makambako,Malombwe,-8.54056,34.51776,1661,7,0,2,Maize,2,1,0,,0,0,0,0,0
+149,0607/MA/Makambako/09,Tanzania,Njombe,Makambako,Lyamkena,-8.54323,34.50468,1717,7,0,2,Maize,2,1,0,7,0,0,0,0,0
+150,0607/MA/Makambako/10,Tanzania,Njombe,Makambako,Lyamkena,-8.54331,34.50456,1727,7,0,2,Maize,2,1,0,5,0,0,0.9,0,0.9
+151,0607/MA/Makambako/11,Tanzania,Njombe,Makambako,Kiumba,-8.55983,34.49644,1743,7,0,2,Maize,2,1,0,7,0,0,0,0,0
+152,0607/MA/Makambako/12,Tanzania,Njombe,Makambako,Kiumba,-8.5395,34.49548,1732,7,0,2,Maize,2,1,0,7,0,0,0,0,0
+153,0707/MA/Makambako/13,Tanzania,Njombe,Makambako,Ikwete,-8.53427,34.45931,1593,7,0,2,Maize,2,1,1,364,0,0,0,0.1,0.1
+154,0707/MA/Makambako/14,Tanzania,Njombe,Makambako,Ikwete,-8.53427,34.45931,1593,7,0,2,Maize,2,1,1,14,0,0,0.9,0,0.9
+155,0707/MA/Makambako/15,Tanzania,Njombe,Makambako,Maguvan(ubena),-8.5083,34.50137,1659,7,0,2,Maize,2,1,0,14,0,0,0,0,0
+156,0707/MA/Makambako/16,Tanzania,Njombe,Makambako,Maguvan(ubena),-8.48721,34.28413,1649,7,0,2,Maize,2,1,0,336,0,0,0,0,0
+157,0707/MA/Makambako/17,Tanzania,Njombe,Makambako,Kilimahewa,-8.504,34.49182,1682,7,0,2,Maize,2,1,1,14,0,0,1.2,0.1,1.3
+158,0707/MA/Makambako/18,Tanzania,Njombe,Makambako,Kilimahewa,-8.50411,34.49145,1674,7,0,2,Maize,2,1,1,21,0,0,1.2,0.1,1.3
+159,0707/MA/Makambako/19,Tanzania,Njombe,Makambako,Mjimwema B,-8.52714,34.48924,1712,7,0,2,Maize,2,1,1,21,0,0,1,0,1
+160,0707/MA/Makambako/20,Tanzania,Njombe,Makambako,Mjimwema B,-8.41021,34.50914,1621,7,0,2,Maize,2,1,1,28,0,0,1,0.1,1.1
+161,1107/MA/Mbinga/01,Tanzania,Ruvuma,Mbinga,Buruma,-11.10135,34.54726,1442,7,1,2,Maize,2,1,1,14,0,0,0,0,0
+162,1107/MA/Mbinga/03,Tanzania,Ruvuma,Mbinga,Buruma,-11.10129,34.54728,1456,7,1,2,Maize,2,1,1,21,0,0,0,0,0
+163,1107/MA/Mbinga/04,Tanzania,Ruvuma,Mbinga,Chumya,-11.101894,34.29569,1004,7,1,2,Maize,2,1,1,14,0,0,0,0,0
+164,1107/MA/Mbinga/05,Tanzania,Ruvuma,Mbinga,Chumya,-11.13189,34.54609,1008,7,1,2,Maize,2,1,0,14,0,0,0,0,0
+165,1107/MA/Mbinga/06,Tanzania,Ruvuma,Mbinga,Chumya,-11.21271,34.34009,1011,7,0,2,Maize,2,1,0,14,0,0,0,0,0
+166,1207/MA/Mbinga/07,Tanzania,Ruvuma,Mbinga,Mkalole,-11.16133,34.5299,634,7,1,2,Maize,2,1,1,21,0,0,0,0,0
+167,1207/MA/Mbinga/08,Tanzania,Ruvuma,Mbinga,Mkalole,-11.15514,34.49008,632,7,1,2,Maize,2,1,1,21,0,0,1,0,1
+168,1207/MA/Mbinga/09,Tanzania,Ruvuma,Mbinga,Mkalole,-11.09533,34.57139,598,7,0,2,Maize,2,1,0,14,0,0,1.4,0.1,1.5
+169,1207/MA/Mbinga/10,Tanzania,Ruvuma,Mbinga,Nangombo,-11.16303,34.49333,544,7,1,2,Maize,2,1,1,21,0,0,0,0,0
+170,1207/MA/Mbinga/11,Tanzania,Ruvuma,Mbinga,Nangombo,-11.1402,34.39433,534,7,1,2,Maize,2,1,1,14,0,0,0,0,0
+171,1207/MA/Mbinga/12,Tanzania,Ruvuma,Mbinga,Nangombo,-11.17449,34.57506,590,7,0,2,Maize,2,1,1,21,0,0,0,0,0
+172,1207/MA/Mbinga/13,Tanzania,Ruvuma,Mbinga,Kilosa,-11.2102,34.49262,504,7,1,2,Maize,2,1,0,7,0,0,0,0,0
+173,1207/MA/Mbinga/15,Tanzania,Ruvuma,Mbinga,Mbuyula,-11.13524,34.46029,516,7,0,2,Maize,2,1,1,7,0,0,0,0,0
+174,1207/MA/Mbinga/16,Tanzania,Ruvuma,Mbinga,Mbuyula,-11.13292,34.45733,506,7,1,2,Maize,2,1,1,14,0,0,0,0,0
+175,1207/MA/Mbinga/17,Tanzania,Ruvuma,Mbinga,Mbuyula,-11.23219,34.45008,508,7,1,2,Maize,2,1,0,21,0,0,0,0,0
+176,1207/MA/Mbinga/19,Tanzania,Ruvuma,Mbinga,Chimula,-11.14212,34.47613,511,7,1,2,Maize,4,1,0,14,0,0,0,0,0
+177,1307/MA/Mbinga/22,Tanzania,Ruvuma,Mbinga,Mateka,-10.55166,34.58122,1302,11,0,2,Maize,2,1,1,14,0,0,0,0,0
+178,1307/MA/Mbinga/23,Tanzania,Ruvuma,Mbinga,Chatanga,-10.55155,34.58132,1300,7,1,2,Maize,2,1,1,14,0,0,0,0,0
+179,1307/MA/Mbinga/26,Tanzania,Ruvuma,Mbinga,Chatanga,-10.56418,34.57416,1371,7,0,2,Maize,2,1,1,14,0,0,0,0,0
+180,1307/MA/Mbinga/28,Tanzania,Ruvuma,Mbinga,Zomba,-10.57676,34.57649,1415,7,0,2,Maize,2,1,1,7,0,0,1,0.1,0
+181,0807/MA/Songea Rural/01,Tanzania,Ruvuma,Songea Rural,Peramiho A,-10.38192,35.27027,1034,7,0,2,Maize,2,1,1,14,0,0,0,0,0
+182,0807/MA/Songea Rural/02,Tanzania,Ruvuma,Songea Rural,Peramiho A,-10.38339,35.27009,1034,7,1,2,Maize,2,1,1,21,1,0.1,1.2,0.1,2.4
+183,0807/MA/Songea Rural/03,Tanzania,Ruvuma,Songea Rural,,-10.38216,35.27133,1033,7,0,2,Maize,2,1,1,21,0,0,0,0,0
+184,0807/MA/Songea Rural/04,Tanzania,Ruvuma,Songea Rural,Morogoro,-10.3696,35.24859,995,7,0,2,Maize,2,1,1,14,0,0,1,0.1,1.1
+185,0807/MA/Songea Rural/05,Tanzania,Ruvuma,Songea Rural,Morogoro,-10.38584,35.21526,1110,7,1,2,Maize,2,1,1,14,0,0,0,0,0
+186,0807/MA/Songea Rural/06,Tanzania,Ruvuma,Songea Rural,Morogoro,-10.37595,35.28526,1008,7,0,2,Maize,2,1,1,21,0,0,0,0,0
+187,0807/MA/Songea Rural/07,Tanzania,Ruvuma,Songea Rural,Sinai,-10.41346,35.26453,984,7,0,2,Maize,2,1,1,7,0,0,0.9,0,0.9
+188,0807/MA/Songea Rural/08,Tanzania,Ruvuma,Songea Rural,Sinai,-10.41333,35.26466,990,7,0,2,Maize,4,1,1,7,0,0,0,0,0
+189,0807/MA/Songea Rural/09,Tanzania,Ruvuma,Songea Rural,Sinai,-10.41269,35.2691,1026,7,0,2,Maize,2,1,1,21,0,0,0,0,0
+190,0907/MA/Songea Rural/10,Tanzania,Ruvuma,Songea Rural,Kitulo,-10.34258,35.35376,1079,7,1,2,Maize,2,1,1,7,0,0,0,0,0
+191,0907/MA/Songea Rural/11,Tanzania,Ruvuma,Songea Rural,Kitulo,-10.34265,35.34379,1083,7,0,2,Maize,2,1,1,21,0,0,0,0,0
+192,0907/MA/Songea Rural/13,Tanzania,Ruvuma,Songea Rural,Liweta,-10.29557,35.35089,1036,7,1,2,Maize,2,1,1,21,0,0,0,0,0
+193,0907/MA/Songea Rural/14,Tanzania,Ruvuma,Songea Rural,Liweta,-10.09301,35.22838,1090,7,1,2,Maize,2,1,1,21,0,0,0,0,0
+194,0907/MA/Songea Rural/15,Tanzania,Ruvuma,Songea Rural,Liweta,-10.29491,35.35066,1036,7,1,2,Maize,2,1,1,14,0,0,0,0,0
+195,0907/MA/Songea Rural/16,Tanzania,Ruvuma,Songea Rural,Liweta,-10.32562,35.36869,1115,7,0,2,Maize,2,1,1,21,0,0,0.9,0,0.9
+196,0907/MA/Songea Rural/18,Tanzania,Ruvuma,Songea Rural,Liweta,-10.46066,35.32772,1042,7,0,2,Maize,2,1,1,21,0,0,0,0,0
+197,1007/MA/Songea Rural/19,Tanzania,Ruvuma,Songea Rural,Mtyangimbole,-10.23131,35.40116,1043,7,0,2,Maize,2,1,1,7,0,0,0.9,0,0.9
+198,1007/MA/Songea Rural/20,Tanzania,Ruvuma,Songea Rural,Mtyangimbole,-10.21522,35.40361,1039,7,1,2,Maize,2,1,1,21,0,0,0.9,0.1,1
+199,1007/MA/Songea Rural/21,Tanzania,Ruvuma,Songea Rural,Mtyangimbole,-10.23522,35.40061,1046,7,1,2,Maize,2,1,0,21,0,0,0,0,0
+200,1007/MA/Songea Rural/24,Tanzania,Ruvuma,Songea Rural,Gumbiro,-10.1601,35.39007,950,7,0,2,Maize,2,1,1,14,0,0,0,0,0
+201,2108/GR/Chamwino/01,Tanzania,Dodoma,Chamwino,Mvumi Makulu,-4.04132,35.72608,1029,7,1,1,Groundnut,4,1,1,56,3.1,0.4,0.5,0.2,4.1
+202,2108/GR/Chamwino/02,Tanzania,Dodoma,Chamwino,Mvumi Makulu,-4.04673,35.72038,1033,77,1,1,Groundnut,4,1,1,56,0,0,0,0.2,0.2
+203,2108/GR/Chamwino/03,Tanzania,Dodoma,Chamwino,Idifu,-3.98545,35.70211,1003,7,0,1,Groundnut,2,1,1,112,0.4,0,0.5,0.1,1
+204,2108/GR/Chamwino/04,Tanzania,Dodoma,Chamwino,Idifu,-3.98525,35.703,1009,77,0,1,Groundnut,2,1,1,112,0,0,0,0.2,0.2
+205,2108/GR/Chamwino/05,Tanzania,Dodoma,Chamwino,Nghahelezi,-3.99787,35.76327,1006,7,1,1,Groundnut,2,1,1,112,0.4,0,0.9,0.2,1.5
+206,2108/GR/Chamwino/06,Tanzania,Dodoma,Chamwino,Nghahelezi,-4.0045,35.7626,1002,7,1,1,Groundnut,2,1,1,84,0.3,0,0.8,0.2,1.3
+207,2208/GR/Chamwino/07,Tanzania,Dodoma,Chamwino,Segala,-3.99186,35.80825,1014,7,0,1,Groundnut,2,1,1,112,0,0,1.1,0.2,1.3
+208,2208/GR/Chamwino/08,Tanzania,Dodoma,Chamwino,Segala,-4.00732,35.80743,1034,7,1,1,Groundnut,2,1,1,56,0.4,0.1,0.7,0.3,1.3
+209,2208/GR/Chamwino/09,Tanzania,Dodoma,Chamwino,Msanga,-3.99937,35.78353,1009,7,1,1,Groundnut,2,1,1,112,2.9,0.8,1.3,0.1,5.1
+210,2208/GR/Chamwino/10,Tanzania,Dodoma,Chamwino,Msanga,-3.99937,35.78236,1000,7,1,1,Groundnut,2,1,1,112,0.8,0.1,0,0.3,1.2
+211,2208/GR/Chamwino/11,Tanzania,Dodoma,Chamwino,Mgunga,-4.02915,35.7697,1023,7,1,1,Groundnut,2,1,1,84,22.8,0.3,0.5,0.1,23.6
+212,2208/GR/Chamwino/12,Tanzania,Dodoma,Chamwino,Mgunga,-4.03309,35.77638,1020,7,0,1,Groundnut,2,1,1,112,0.3,0.1,0.6,0.3,1.2
+213,2308/GR/Chamwino/13,Tanzania,Dodoma,Chamwino,Nhinhi,-4.0613,35.78048,1089,7,1,1,Groundnut,2,1,1,112,0.3,0,1,0.1,1.5
+214,2308/GR/Chamwino/14,Tanzania,Dodoma,Chamwino,Nhinhi,-4.05473,35.78582,1090,7,1,1,Groundnut,3,1,1,112,0,0,0,0.1,0.1
+215,2308/GR/Chamwino/15,Tanzania,Dodoma,Chamwino,Mpwayungu,-3.96628,35.81123,991,7,0,1,Groundnut,2,1,1,112,1.6,0.3,0.6,0.1,2.6
+216,2308/GR/Chamwino/16,Tanzania,Dodoma,Chamwino,Mpwayungu,-3.96852,35.80902,994,7,0,1,Groundnut,2,1,1,112,0.9,0.1,0.7,0.3,2
+217,2308/GR/Chamwino/17,Tanzania,Dodoma,Chamwino,Sasajila,-4.34654,35.70233,1369,7,0,1,Groundnut,4,1,1,84,1.7,0.1,1,0.1,2.9
+218,2308/GR/Chamwino/18,Tanzania,Dodoma,Chamwino,Sasajila,-4.35255,35.71309,1390,7,1,1,Groundnut,4,1,1,112,0.5,0.1,2.4,0.2,3.2
+219,2308/GR/Chamwino/19,Tanzania,Dodoma,Chamwino,Iringa Mvumi,-4.34996,35.71273,1384,7,1,1,Groundnut,2,1,1,112,0.3,0,0.7,0.1,1.1
+220,2308/GR/Chamwino/20,Tanzania,Dodoma,Chamwino,Iringa Mvumi,-4.3704,35.69687,1488,7,0,1,Groundnut,2,1,1,112,6.6,1.7,0.8,0.3,9.5
+221,1306/GR/Nanyumbu/01,Tanzania,Mtwara,Nanyumbu,Mnanje A,-10.85844,38.70069,342,0,0,1,Groundnut,2,,1,84,0.4,0,0.8,0.1,1.3
+222,1306/GR/Nanyumbu/02,Tanzania,Mtwara,Nanyumbu,Mnanje A,-10.8569,38.70019,355,7,0,1,Groundnut,,1,1,56,0.5,0,0.8,0.1,1.3
+223,1306/GR/Nanyumbu/03,Tanzania,Mtwara,Nanyumbu,Mnanje B,-10.87145,38.69368,348,7,0,1,Groundnut,,1,1,28,0.4,0,2.4,0.1,2.9
+224,1306/GR/Nanyumbu/04,Tanzania,Mtwara,Nanyumbu,Mnanje B,-10.88241,38.6869,338,7,1,1,Groundnut,3,1,1,84,0.5,0,1.7,0.3,2.6
+225,1306/GR/Nanyumbu/05,Tanzania,Mtwara,Nanyumbu,Mikangaula,-10.84757,38.62952,327,7,1,1,Groundnut,4,1,1,56,0.5,0.1,0,0,0.6
+226,1306/GR/Nanyumbu/06,Tanzania,Mtwara,Nanyumbu,Mikangaula,-10.84737,38.62843,324,7,1,2,Groundnut,,1,1,28,22.5,0.6,1.2,0.2,24.4
+227,1306/GR/Nanyumbu/07,Tanzania,Mtwara,Nanyumbu,Nawaje,-10.81676,38.602,362,7,0,1,Groundnut,,,1,56,0.4,0,2.3,0.1,2.9
+228,1306/GR/Nanyumbu/08,Tanzania,Mtwara,Nanyumbu,Nawaje,-10.80838,38.60012,348,7,1,1,Groundnut,3,1,1,42,0.4,0,1.8,0.1,2.4
+229,1306/GR/Nanyumbu/09,Tanzania,Mtwara,Nanyumbu,Nangomba,-10.90066,38.5177,293,7,0,1,Groundnut,,1,1,84,1,0.2,1.1,0.1,2.3
+230,1306/GR/Nanyumbu/10,Tanzania,Mtwara,Nanyumbu,Nangomba,-10.92969,38.52389,270,7,0,1,Groundnut,2,1,1,28,1.2,0.2,1.1,0.3,2.8
+231,1306/GR/Nanyumbu/11,Tanzania,Mtwara,Nanyumbu,Likokona,-10.89469,38.2415,316,7,0,1,Groundnut,,,1,42,0,0,0,0,0
+232,1306/GR/Nanyumbu/12,Tanzania,Mtwara,Nanyumbu,Likokona,-10.89483,38.24128,346,0,0,1,Groundnut,,1,1,84,0.5,0,1.4,0.1,2
+233,1306/GR/Nanyumbu/13,Tanzania,Mtwara,Nanyumbu,Michiga,-10.91783,38.16732,404,7,0,1,Groundnut,,1,1,56,30.1,0.9,1.3,0.1,32.4
+234,1306/GR/Nanyumbu/14,Tanzania,Mtwara,Nanyumbu,Michiga,-10.91825,38.16682,399,7,0,1,Groundnut,,1,1,42,0,0,1.1,0.1,1.2
+235,1306/GR/Nanyumbu/15,Tanzania,Mtwara,Nanyumbu,Nandembo,-10.92645,38.12256,354,7,1,1,Groundnut,,1,1,56,0,0,0,0.1,0.1
+236,1306/GR/Nanyumbu/16,Tanzania,Mtwara,Nanyumbu,Nandembo,-10.92753,38.12085,356,7,1,1,Groundnut,,1,1,42,0.4,0,3.6,0.1,4.1
+237,1306/GR/Nanyumbu/17,Tanzania,Mtwara,Nanyumbu,Chigweje,-10.91122,38.06796,390,7,0,1,Groundnut,,1,1,56,9.5,0.5,7.4,0.6,18
+238,1306/GR/Nanyumbu/18,Tanzania,Mtwara,Nanyumbu,Chigweje,-10.91198,38.06778,388,7,1,1,Groundnut,,,1,42,0.4,0,0.8,0.1,1.3
+239,1306/GR/Nanyumbu/19,Tanzania,Mtwara,Nanyumbu,Nahawara,-10.97459,38.39025,364,7,1,1,Groundnut,3,1,1,84,0,0,1.8,0.1,1.9
+240,1306/GR/Nanyumbu/20,Tanzania,Mtwara,Nanyumbu,Nahawara,-10.96017,38.38509,351,0,1,1,Groundnut,,1,1,,20.1,0.5,7.8,0.6,29
+241,1106/GR/Masasi/01,Tanzania,Mtwara,Masasi,Mnavira,-11.06573,39.2521,142,7,0,1,Groundnut,4,1,1,56,0,0,0,0.1,0.1
+242,1106/GR/Masasi/02,Tanzania,Mtwara,Masasi,Mnavira,-11.07568,39.26293,160,7,,1,Groundnut,,1,1,,5.5,1.2,1.1,0.3,8.1
+243,1106/GR/Masasi/03,Tanzania,Mtwara,Masasi,Mhata,-10.93883,39.18403,304,7,0,1,Groundnut,4,,1,140,0,0,0,0,0
+244,1106/GR/Masasi/04,Tanzania,Mtwara,Masasi,Mhata,-10.93684,39.18772,343,7,0,1,Groundnut,,1,1,112,0.6,0,1.5,0.2,2.3
+245,1106/GR/Masasi/05,Tanzania,Mtwara,Masasi,Namalenga,-10.94162,39.10949,286,7,0,1,Groundnut,4,1,0,112,0.9,0.1,1.7,0.2,2.9
+246,1106/GR/Masasi/06,Tanzania,Mtwara,Masasi,Namalenga,-10.94222,39.10971,308,7,0,1,Groundnut,,1,1,84,3.6,1,4,1.7,10.2
+247,1106/GR/Masasi/07,Tanzania,Mtwara,Masasi,Mkululu,-10.78655,39.10051,409,7,0,1,Groundnut,,1,1,28,0.4,0.1,7.8,0.1,8.4
+248,1106/GR/Masasi/08,Tanzania,Mtwara,Masasi,Mkululu,-10.78859,39.10088,410,7,0,1,Groundnut,,,1,175,0.6,0.1,14.4,0.3,15.4
+249,1106/GR/Masasi/09,Tanzania,Mtwara,Masasi,Mpeta,-10.87034,38.94902,290,7,0,1,Groundnut,3,1,1,28,0.4,0.1,2.2,0.3,3
+250,1106/GR/Masasi/10,Tanzania,Mtwara,Masasi,Mpeta,-10.86954,38.94968,295,7,0,1,Groundnut,,1,1,,31,0.5,5.6,0.5,37.5
+251,1206/GR/Masasi/11,Tanzania,Mtwara,Masasi,Lukuledi,-10.56968,38.80263,336,7,0,1,Groundnut,4,1,1,28,0,0,0.9,0.1,1
+252,1206/GR/Masasi/12,Tanzania,Mtwara,Masasi,Lukuledi,-10.56945,38.80201,340,7,0,1,Groundnut,,1,1,140,0,0,0,0,0
+253,1206/GR/Masasi/13,Tanzania,Mtwara,Masasi,Nambawala,-10.54255,38.73381,368,7,0,1,Groundnut,,1,1,28,12.2,1,8.2,1,22.3
+254,1206/GR/Masasi/14,Tanzania,Mtwara,Masasi,Nambawala,-10.54292,38.73232,355,7,,1,Groundnut,,,1,175,0.6,0,0,0.1,0.8
+255,1206/GR/Masasi/15,Tanzania,Mtwara,Masasi,Namichi,-10.69725,38.69549,433,7,0,1,Groundnut,4,1,1,84,0.4,0,1.8,0.1,2.3
+256,1206/GR/Masasi/16,Tanzania,Mtwara,Masasi,Namichi,-10.69758,38.67556,438,7,1,1,Groundnut,,1,1,84,0,0,3.4,0.1,3.5
+257,1206/GR/Masasi/17,Tanzania,Mtwara,Masasi,Mpanyani,-10.54576,38.68781,387,7,0,1,Groundnut,3,1,1,28,15.2,2.3,4.6,1,23.1
+258,1206/GR/Masasi/18,Tanzania,Mtwara,Masasi,Mpanyani,-10.54409,38.68588,413,7,0,2,Groundnut,,1,1,84,0.5,0,1.9,0.1,2.6
+259,1206/GR/Masasi/19,Tanzania,Mtwara,Masasi,Nanyindwa,-10.62724,38.70089,390,7,0,1,Groundnut,4,1,1,84,0.4,0,1.4,0.1,1.9
+260,1206/GR/Masasi/20,Tanzania,Mtwara,Masasi,Nanyindwa,-10.62922,38.70132,395,7,1,1,Groundnut,,1,1,,0.4,0,0.8,0.1,1.3
+261,1407/GR/Iringa Rural/01,Tanzania,Iringa,Iringa Rural,Kalenga,-7.48236,35.36117,1463,7,1,2,Groundnut,4,1,1,7,0.3,0.1,0.9,0.4,1.7
+262,1407/GR/Iringa Rural/02,Tanzania,Iringa,Iringa Rural,Kalenga,-7.48195,35.36102,1451,0,0,2,Groundnut,,1,1,7,0,0,0,0,0
+263,1407/GR/Iringa Rural/03,Tanzania,Iringa,Iringa Rural,Kidamali,-7.42689,35.30857,1445,7,0,2,Groundnut,2,1,1,14,0,0,0,0,0
+264,1407/GR/Iringa Rural/04,Tanzania,Iringa,Iringa Rural,Kidamali,-7.4266,35.30822,1438,7,0,2,Groundnut,4,1,1,14,2.7,0.3,4.3,0.9,8.3
+265,1407/GR/Iringa Rural/05,Tanzania,Iringa,Iringa Rural,Nyamahana,-7.40424,35.25242,980,77,0,2,Groundnut,4,1,1,14,0.8,0.1,0.6,0.2,1.6
+266,1407/GR/Iringa Rural/06,Tanzania,Iringa,Iringa Rural,Nyamahana,-7.40426,35.25239,978,7,0,2,Groundnut,4,1,1,7,5.1,1.1,1,0.3,7.4
+267,1507/GR/Iringa Rural/07,Tanzania,Iringa,Iringa Rural,Malinzanga,-7.38333,35.20701,891,7,0,2,Groundnut,2,1,1,14,5.2,0.7,1.5,0.3,7.7
+268,1507/GR/Iringa Rural/08,Tanzania,Iringa,Iringa Rural,Malinzanga,-7.39008,35.22861,882,7,1,2,Groundnut,2,1,1,14,25.3,1,0.5,0.1,26.8
+269,1507/GR/Iringa Rural/09,Tanzania,Iringa,Iringa Rural,Mapogoro,-7.48801,35.07312,960,7,0,2,Groundnut,2,1,1,14,1.4,0.2,1.3,0.2,3.1
+270,1507/GR/Iringa Rural/10,Tanzania,Iringa,Iringa Rural,Mapogoro,-7.48792,35.07032,961,7,0,2,Groundnut,2,1,1,14,32.9,0.9,2,0.3,36.1
+271,1507/GR/Iringa Rural/11,Tanzania,Iringa,Iringa Rural,Idodi,-7.46776,35.11849,954,7,1,2,Groundnut,2,1,1,14,16.9,0.3,4.8,0.1,22
+272,1507/GR/Iringa Rural/12,Tanzania,Iringa,Iringa Rural,Idodi,-7.46707,35.11849,953,7,0,2,Groundnut,4,1,1,7,0.4,0.1,0,0.1,0.5
+273,1607/GR/Iringa Rural/13,Tanzania,Iringa,Iringa Rural,Ugwachanya,-7.51359,35.3806,1599,7,0,2,Groundnut,2,1,1,7,0,0,0.5,0.1,0.6
+274,1607/GR/Iringa Rural/14,Tanzania,Iringa,Iringa Rural,Wende,-7.54009,35.34309,1614,7,0,2,Groundnut,4,1,1,7,0.3,0,0.6,0.1,1
+275,1707/GR/Iringa Rural/15,Tanzania,Iringa,Iringa Rural,Market,-7.46919,35.41838,1630,7,0,2,Groundnut,,,1,,4.5,0.5,5.8,1.7,12.5
+276,1707/GR/Iringa Rural/16,Tanzania,Iringa,Iringa Rural,Market,-7.46919,35.41838,1630,0,0,2,Groundnut,,,1,,20.2,2.3,6.4,1.9,30.8
+277,1707/GR/Iringa Rural/17,Tanzania,Iringa,Iringa Rural,Market,-7.46919,35.41838,1630,7,0,2,Groundnut,,,1,,4.3,0.4,0.5,0.2,5.4
+278,1707/GR/Iringa Rural/18,Tanzania,Iringa,Iringa Rural,Market,-7.46919,35.41838,1630,7,0,2,Groundnut,,,1,,0,0,0.6,0.1,0.7
+279,1707/GR/Iringa Rural/19,Tanzania,Iringa,Iringa Rural,Market,-7.46919,35.41838,1630,7,0,2,Groundnut,,,1,,23.7,0.4,5.7,0.1,29.9
+280,1707/GR/Iringa Rural/20,Tanzania,Iringa,Iringa Rural,Market,-7.46919,35.41838,1630,7,0,2,Groundnut,,,1,,0.5,0.1,0,0,0.6
+281,1606/GR/Urambo/01,Tanzania,Tabora,Urambo,Usisya,-5.08856,32.23531,1124,7,1,1,Groundnut,4,1,1,140,0.3,0,0.9,0.2,1.4
+282,1606/GR/Urambo/02,Tanzania,Tabora,Urambo,Usisya,-5.08933,32.23405,1125,77,1,2,Groundnut,4,1,1,112,0.3,0,0.5,0.1,0.9
+283,1606/GR/Urambo/03,Tanzania,Tabora,Urambo,Ussoke,-5.0944,32.31938,1150,7,0,2,Groundnut,4,1,1,49,0.5,0.1,2.3,0.2,3.1
+284,1606/GR/Urambo/04,Tanzania,Tabora,Urambo,Ussoke,-5.08901,32.31884,1168,7,0,2,Groundnut,2,1,1,112,0,0,0,0,0
+285,1606/GR/Urambo/05,Tanzania,Tabora,Urambo,Iteblanda,-5.2066,32.08374,1089,7,1,2,Groundnut,1,1,1,112,0.7,0.1,2.5,0.5,3.7
+286,1606/GR/Urambo/06,Tanzania,Tabora,Urambo,Iteblanda,-5.19935,32.08854,1099,7,1,2,Groundnut,2,1,1,119,0.3,0,2.3,0.3,2.9
+287,1606/GR/Urambo/07,Tanzania,Tabora,Urambo,Igagala,-4.92855,31.70247,1090,7,1,2,Groundnut,1,1,1,56,0,0.1,0.6,0.2,0.9
+288,1606/GR/Urambo/08,Tanzania,Tabora,Urambo,Igagala,-4.92813,31.70203,1092,7,0,2,Groundnut,3,1,1,154,1,0.2,2.9,0.7,4.8
+289,1606/GR/Urambo/09,Tanzania,Tabora,Urambo,Kasungu,-5.00452,31.77616,1099,7,1,2,Groundnut,4,1,1,112,0.3,0,0.8,0.1,1.2
+290,1606/GR/Urambo/10,Tanzania,Tabora,Urambo,Kasungu,-5.00426,31.77404,1103,0,1,1,Groundnut,4,1,1,70,0.4,0,0.7,0.3,1.5
+291,1606/GR/Urambo/11,Tanzania,Tabora,Urambo,Motomoto,-5.06628,31.96684,1113,7,0,2,Groundnut,3,1,1,98,0.3,0.1,0.7,0.3,1.4
+292,1606/GR/Urambo/12,Tanzania,Tabora,Urambo,Motomoto,-5.06759,31.9656,1108,7,0,2,Groundnut,3,1,1,70,0.7,0,0.7,0.6,2
+293,1606/GR/Urambo/13,Tanzania,Tabora,Urambo,Songambele,-4.93487,32.09511,1145,0,0,2,Groundnut,4,1,1,77,1.1,0.3,0.8,0.1,2.3
+294,1606/GR/Urambo/14,Tanzania,Tabora,Urambo,Songambele,-4.935504,32.09682,1145,7,0,2,Groundnut,4,1,1,70,0.3,0,0.7,0.3,1.3
+295,1606/GR/Urambo/15,Tanzania,Tabora,Urambo,Jionee Mwenyewe,-4.94034,32.17117,1117,77,1,2,Groundnut,4,1,1,70,0.3,0.1,1,0.3,1.7
+296,1606/GR/Urambo/16,Tanzania,Tabora,Urambo,Jionee Mwenyewe,-4.94046,32.17164,1111,7,1,2,Groundnut,4,1,1,140,0.3,0,0,0,0.3
+297,1606/GR/Urambo/17,Tanzania,Tabora,Urambo,Igunguli,-4.81936,32.07557,1123,7,0,2,Groundnut,3,1,1,154,9.1,1.2,4.2,0.3,14.7
+298,1606/GR/Urambo/18,Tanzania,Tabora,Urambo,Igunguli,-4.81869,32.07473,1127,7,1,2,Groundnut,3,1,1,70,0.3,0,1.4,0.2,2
+299,1706/GR/Urambo/19,Tanzania,Tabora,Urambo,Sipungu,-5.06855,32.27502,1163,7,0,2,Groundnut,4,1,1,84,0,0,0.6,0.1,0.7
+300,1706/GR/Urambo/20,Tanzania,Tabora,Urambo,Sipungu,-5.06751,32.27932,1159,7,1,2,Groundnut,4,1,1,154,0,0,0.5,0.1,0.7
+301,1806/GR/Nzega/01,Tanzania,Tabora,Nzega,Kitangili,-4.21515,33.24263,1215,7,0,2,Groundnut,2,1,1,70,0,0,0.6,0.2,0.9
+302,1806/GR/Nzega/02,Tanzania,Tabora,Nzega,Kitangili,-4.21566,33.24276,1208,7,1,2,Groundnut,1,1,1,70,0,0,0,0,0.1
+303,1806/GR/Nzega/03,Tanzania,Tabora,Nzega,Mbogwe,-4.16067,33.26387,1195,7,1,2,Groundnut,4,1,1,70,5.1,1.6,0.5,0,7.2
+304,1806/GR/Nzega/04,Tanzania,Tabora,Nzega,Mbogwe,-4.15608,33.26183,1196,7,0,2,Groundnut,3,1,1,70,0.3,0,0.6,0.3,1.2
+305,1806/GR/Nzega/05,Tanzania,Tabora,Nzega,Itilo,-4.24406,33.18383,1233,7,0,2,Groundnut,4,1,1,63,0.3,0,1.2,0.2,1.7
+306,1806/GR/Nzega/06,Tanzania,Tabora,Nzega,Itilo,-4.26651,33.1752,1262,7,1,2,Groundnut,3,1,1,56,11.9,0.7,1.7,0.2,14.5
+307,1806/GR/Nzega/07,Tanzania,Tabora,Nzega,Utwigu,-4.32707,33.16916,1243,7,0,2,Groundnut,3,1,1,70,0,0,0,0,0
+308,1806/GR/Nzega/08,Tanzania,Tabora,Nzega,Utwigu,-4.32719,33.1639,1243,77,1,2,Groundnut,3,1,1,112,0,0,0.6,0.2,0.8
+309,1806/GR/Nzega/09,Tanzania,Tabora,Nzega,Mwanhala,-4.37899,33.15006,1231,7,1,2,Groundnut,2,1,1,70,0.7,0.2,2.1,0.2,3.2
+310,1806/GR/Nzega/10,Tanzania,Tabora,Nzega,Mwanhala,-4.35557,33.15393,1233,7,0,2,Groundnut,4,1,1,56,0,0,0.5,0.1,0.7
+311,1806/GR/Nzega/11,Tanzania,Tabora,Nzega,Shila,-4.25311,33.10847,1242,7,1,2,Groundnut,4,1,1,56,17.1,0.4,0.9,0.1,18.4
+312,1806/GR/Nzega/12,Tanzania,Tabora,Nzega,Shila,-4.2518,33.10779,1243,7,1,2,Groundnut,4,1,11,140,0,0,0.6,0,0.7
+313,1806/GR/Nzega/13,Tanzania,Tabora,Nzega,Itunda,-4.27964,32.97982,1251,7,1,2,Groundnut,4,1,1,56,1.9,0.5,1,0.7,4.2
+314,1806/GR/Nzega/14,Tanzania,Tabora,Nzega,Itunda,-4.28324,32.98053,1263,0,0,2,Groundnut,3,1,1,70,13.7,0.3,2.8,0.1,16.9
+315,1906/GR/Nzega/15,Tanzania,Tabora,Nzega,Ijanija,-4.20587,33.12281,1178,7,0,2,Groundnut,3,1,1,140,0.6,0,2,0.2,2.8
+316,1906/GR/Nzega/16,Tanzania,Tabora,Nzega,Ijanija,-4.2047,33.12134,1220,7,0,2,Groundnut,3,1,1,70,0.3,0,0.6,0.2,1.1
+317,1906/GR/Nzega/17,Tanzania,Tabora,Nzega,Itobo,-4.16972,33.02354,1220,7,0,2,Groundnut,4,1,1,56,0,0,1.1,0.2,1.3
+318,1906/GR/Nzega/18,Tanzania,Tabora,Nzega,Itobo,-4.16749,33.01944,1207,7,1,2,Groundnut,4,1,1,70,0,0,1,0.1,1.1
+319,1906/GR/Nzega/19,Tanzania,Tabora,Nzega,,-4.29483,32.87135,1196,7,1,1,Groundnut,4,1,1,84,8.8,0.7,5.1,0.3,14.8
+320,1906/GR/Nzega/20,Tanzania,Tabora,Nzega,Mogwa,-4.27672,32.86132,1206,7,0,2,Groundnut,4,1,1,98,0,0,1,0,1
+321,2006/GR/Kahama/01,Tanzania,Shinyanga,Kahama,Kilago,-3.94392,32.58623,1215,7,0,2,Groundnut,4,1,1,126,0.4,0,1.2,0.1,1.7
+322,2006/GR/Kahama/02,Tanzania,Shinyanga,Kahama,Kilago,-3.94409,32.58653,1217,0,0,2,Groundnut,3,1,1,70,0.5,0,1.3,0.1,1.9
+323,2006/GR/Kahama/03,Tanzania,Shinyanga,Kahama,Wami,-3.95093,32.55852,1229,7,0,2,Groundnut,4,1,1,63,0.5,0.1,2.3,0.1,2.9
+324,2006/GR/Kahama/04,Tanzania,Shinyanga,Kahama,Wami,-3.94256,32.55382,1219,7,1,2,Groundnut,4,1,1,84,0.5,0.1,1.8,0.2,2.5
+325,2006/GR/Kahama/05,Tanzania,Shinyanga,Kahama,Zongomera,-3.86165,32.55129,1230,0,1,2,Groundnut,3,1,1,98,0.4,0.1,3.7,0.1,4.2
+326,2006/GR/Kahama/06,Tanzania,Shinyanga,Kahama,Zongomera,-3.86152,32.54802,1240,7,0,2,Groundnut,2,1,1,98,0,0,1,0.1,1.1
+327,2006/GR/Kahama/07,Tanzania,Shinyanga,Kahama,Mwendakulima,-3.82687,32.67753,1192,77,1,2,Groundnut,4,1,1,98,1.2,0.3,1,0.5,2.9
+328,2006/GR/Kahama/08,Tanzania,Shinyanga,Kahama,Mwendakulima,-3.84383,32.68423,1213,77,1,2,Groundnut,3,1,1,98,0.4,0.1,3.1,0.1,3.6
+329,2006/GR/Kahama/09,Tanzania,Shinyanga,Kahama,Isagehe,-3.90493,32.77008,1238,7,1,2,Groundnut,3,1,,70,4,0,1.8,0.1,6
+330,2006/GR/Kahama/10,Tanzania,Shinyanga,Kahama,Isagehe,-3.90548,32.76004,1223,7,0,2,Groundnut,1,1,1,56,0,0,1.5,0.1,1.6
+331,2006/GR/Kahama/11,Tanzania,Shinyanga,Kahama,Bukooba,-3.9511,32.79583,1229,7,1,2,Groundnut,4,1,1,91,1.1,0.3,1.4,0.1,2.9
+332,2006/GR/Kahama/12,Tanzania,Shinyanga,Kahama,Bukooba,-3.93883,32.80928,1219,7,1,2,Groundnut,4,1,1,98,1.2,0.1,1.4,0.2,2.9
+333,2106/GR/Kahama/13,Tanzania,Shinyanga,Kahama,Ngaya,-3.6317,32.62629,1190,7,1,2,Groundnut,4,1,1,126,11.6,0.6,1.4,0.1,13.7
+334,2106/GR/Kahama/14,Tanzania,Shinyanga,Kahama,Ngaya,-3.63868,32.625,1198,7,0,2,Groundnut,2,1,1,112,30.7,0.7,2,0.2,33.6
+335,2106/GR/Kahama/15,Tanzania,Shinyanga,Kahama,Busangi,-3.6466,32.56205,1195,77,1,1,Groundnut,4,1,1,140,0.6,0.1,2.1,0.1,3
+336,2106/GR/Kahama/16,Tanzania,Shinyanga,Kahama,Busangi,-3.65254,32.5572,1204,7,1,2,Groundnut,3,1,1,70,0,0,1.6,0.1,1.6
+337,2106/GR/Kahama/17,Tanzania,Shinyanga,Kahama,Kalagwa,-3.69068,32.49551,1218,7,1,2,Groundnut,4,1,1,70,16.6,1,8.6,0.7,26.8
+338,2106/GR/Kahama/18,Tanzania,Shinyanga,Kahama,Kalagwa,-3.6927,32.48908,1229,7,1,2,Groundnut,3,1,1,98,0.5,0,3.3,0.2,4
+339,2106/GR/Kahama/19,Tanzania,Shinyanga,Kahama,Ntobo - A,-3.65071,32.45805,1235,7,1,2,Groundnut,3,1,1,84,0.5,0.1,2.1,0.1,2.7
+340,2106/GR/Kahama/20,Tanzania,Shinyanga,Kahama,Ntobo - A,-3.65265,32.46261,1229,7,1,2,Groundnut,4,1,1,98,0,0.1,2.1,0.1,2.3
+341,2206/GR/Bukombe/01,Tanzania,Shinyanga,Bukombe,Bugelenga,-3.65012,32.00777,1196,7,0,2,Groundnut,2,1,1,154,0.4,0.1,2.3,0.1,2.9
+342,2206/GR/Bukombe/02,Tanzania,Shinyanga,Bukombe,Bugelenga,-3.67901,31.99989,1146,7,1,2,Groundnut,4,1,1,133,0,0.1,2.4,0.1,2.5
+343,2206/GR/Bukombe/03,Tanzania,Shinyanga,Bukombe,Iponya,-3.70835,32.10743,1178,7,1,2,Groundnut,3,1,1,126,0.5,0.1,1.5,0.1,2.3
+344,2206/GR/Bukombe/04,Tanzania,Shinyanga,Bukombe,Iponya,-3.70757,32.10804,1177,7,0,2,Groundnut,3,1,1,133,18.1,0.4,7.2,0.3,26
+345,2206/GR/Bukombe/05,Tanzania,Shinyanga,Bukombe,Bukandwe,-3.64948,32.25011,1195,7,0,2,Groundnut,3,1,1,98,22.8,0.7,6.2,0.4,30.1
+346,2206/GR/Bukombe/06,Tanzania,Shinyanga,Bukombe,Bukandwe,-3.68022,32.2182,1160,7,1,2,Groundnut,3,1,1,56,0.4,0,0.8,0.1,1.3
+347,2206/GR/Bukombe/07,Tanzania,Shinyanga,Bukombe,Kakumbi,-3.5602,32.20171,1196,7,1,2,Groundnut,4,1,1,91,18.1,0.2,4.5,0.1,23
+348,2206/GR/Bukombe/08,Tanzania,Shinyanga,Bukombe,Kakumbi,-3.55983,32.20206,1199,7,0,2,Groundnut,1,1,1,112,0,0,0,0,0
+349,2206/GR/Bukombe/09,Tanzania,Shinyanga,Bukombe,Lubeho,-3.60669,32.1188,1169,7,0,2,Groundnut,1,1,1,112,0.5,0,1.9,0.2,2.7
+350,2206/GR/Bukombe/10,Tanzania,Shinyanga,Bukombe,Lubeho,-3.61671,32.0972,1149,7,0,2,Groundnut,3,1,1,105,0.5,0.1,2.1,0.1,2.8
+351,2306/GR/Bukombe/11,Tanzania,Shinyanga,Bukombe,Butinzya,-3.32055,31.89744,1265,7,1,2,Groundnut,4,1,1,119,2.5,0.5,2.6,1.2,6.8
+352,2306/GR/Bukombe/12,Tanzania,Shinyanga,Bukombe,Butinzya,-3.31907,31.89634,1275,7,0,2,Groundnut,3,1,1,112,0,0.1,3,0.2,3.2
+353,2306/GR/Bukombe/13,Tanzania,Shinyanga,Bukombe,Silamila,-3.39424,31.89088,1227,7,1,2,Groundnut,4,1,1,133,0,0,0.8,0.1,0.9
+354,2306/GR/Bukombe/14,Tanzania,Shinyanga,Bukombe,Silamila,-3.3967,31.89027,1217,7,1,2,Groundnut,4,1,1,119,0.5,0,1.7,0.1,2.2
+355,2306/GR/Bukombe/15,Tanzania,Shinyanga,Bukombe,Buntubili,-3.44372,31.84616,1251,7,0,2,Groundnut,3,1,1,147,0.4,0,2.2,0.1,2.8
+356,2306/GR/Bukombe/16,Tanzania,Shinyanga,Bukombe,Buntubili,-3.43664,31.83458,1247,7,0,2,Groundnut,4,1,1,119,0,0,2.2,0.1,2.4
+357,2306/GR/Bukombe/17,Tanzania,Shinyanga,Bukombe,Msasa,-3.36324,31.5493,1237,7,0,2,Groundnut,4,1,1,70,18.7,0.4,6.3,0.2,25.6
+358,2306/GR/Bukombe/18,Tanzania,Shinyanga,Bukombe,Msasa,-3.36019,31.5507,1233,7,0,2,Groundnut,3,1,1,105,2.9,0.4,0.9,0.3,4.4
+359,2306/GR/Bukombe/19,Tanzania,Shinyanga,Bukombe,Kanembwa,-3.29224,31.48646,1184,7,1,2,Groundnut,3,1,1,,0.5,0,1.4,0.1,2.1
+360,2306/GR/Bukombe/20,Tanzania,Shinyanga,Bukombe,Kanembwa,-3.32865,31.51448,1232,7,1,2,Groundnut,4,1,1,84,0,0,0.8,0.1,0.9
+361,0906/GR/Babati/01,Tanzania,Manyara,Babati,Masware,-4.04132,35.72608,1029,7,1,1,Groundnut,4,1,1,42,0,0,2.1,0.1,2.2
+362,0906/GR/Babati/02,Tanzania,Manyara,Babati,Masware,-4.04673,35.72038,1033,77,1,1,Groundnut,4,1,,,0.6,0.1,9,0.1,9.8
+363,1006/GR/Babati/03,Tanzania,Manyara,Babati,Gichameda,-3.98545,35.70211,1003,7,0,1,Groundnut,2,1,1,7,0.4,0.1,1.8,0.1,2.3
+364,1006/GR/Babati/04,Tanzania,Manyara,Babati,Gichameda,-3.98525,35.703,1009,77,0,1,Groundnut,2,1,1,7,38.3,0.6,1.4,0,40.3
+365,1206/GR/Babati/05,Tanzania,Manyara,Babati,Mapea,-3.99787,35.76327,1006,7,1,1,Groundnut,2,1,1,21,0,0.1,1.6,0.1,1.8
+366,1206/GR/Babati/06,Tanzania,Manyara,Babati,Mapea,-4.0045,35.7626,1002,7,1,1,Groundnut,2,1,1,56,16.2,0.8,0.8,0.1,17.8
+367,1306/GR/Babati/07,Tanzania,Manyara,Babati,Sarame,-3.99186,35.80825,1014,7,0,1,Groundnut,2,1,1,56,0.4,0.2,1.1,0.1,1.7
+368,1306/GR/Babati/08,Tanzania,Manyara,Babati,Sarame,-4.00732,35.80743,1034,7,1,1,Groundnut,2,1,1,56,4.5,0.5,0,0.1,5
+369,1306/GR/Babati/09,Tanzania,Manyara,Babati,Magugu,-3.99937,35.78353,1009,7,1,1,Groundnut,2,1,1,28,0.4,0,4.1,0.2,4.7
+370,1306/GR/Babati/10,Tanzania,Manyara,Babati,Magugu,-3.99937,35.78236,1000,7,1,1,Groundnut,2,1,1,7,0.4,0,4.3,0.3,5
+371,1306/GR/Babati/11,Tanzania,Manyara,Babati,Matufa,-4.02915,35.7697,1023,7,1,1,Groundnut,2,1,1,84,0.6,0,1.1,0.3,2
+372,1306/GR/Babati/12,Tanzania,Manyara,Babati,Matufa,-4.03309,35.77638,1020,7,0,1,Groundnut,2,1,1,28,21.6,1,4.9,0.4,27.9
+373,1306/GR/Babati/13,Tanzania,Manyara,Babati,Mawemairo,-4.0613,35.78048,1089,7,1,1,Groundnut,2,1,1,28,0.8,0,1.8,0.1,2.8
+374,1306/GR/Babati/14,Tanzania,Manyara,Babati,Mawemairo,-4.05473,35.78582,1090,7,1,1,Groundnut,3,1,1,28,5.2,0.5,3.6,0.1,9.4
+375,1406/GR/Babati/15,Tanzania,Manyara,Babati,Sangaiwe,-3.96628,35.81123,991,7,0,1,Groundnut,2,1,1,7,0,0,7,0.1,7.1
+376,1406/GR/Babati/16,Tanzania,Manyara,Babati,Sangaiwe,-3.96852,35.80902,994,7,0,1,Groundnut,2,1,1,7,0,0,3.1,0.1,3.3
+377,1406/GR/Babati/17,Tanzania,Manyara,Babati,Endanachan,-4.34654,35.70233,1369,7,0,1,Groundnut,4,1,1,28,0.4,0,4.3,0.1,4.8
+378,1406/GR/Babati/18,Tanzania,Manyara,Babati,Ayasanda,-4.35255,35.71309,1390,7,1,1,Groundnut,4,1,11,56,0,0,1.3,0.1,1.4
+379,1406/GR/Babati/19,Tanzania,Manyara,Babati,Endanachan,-4.34996,35.71273,1384,7,1,1,Groundnut,2,1,1,28,0,0,1.8,0.1,1.9
+380,1406/GR/Babati/20,Tanzania,Manyara,Babati,Ayasanda,-4.3704,35.69687,1488,7,0,1,Groundnut,2,1,1,28,0.4,0,1.8,0.1,2.4
