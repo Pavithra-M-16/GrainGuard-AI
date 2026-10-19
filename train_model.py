@@ -1,112 +1,204 @@
-import pandas as pd
 
-from sklearn.model_selection import train_test_split
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.pipeline import Pipeline
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from pathlib import Path
 
 import joblib
+import pandas as pd
+
+from sklearn.compose import ColumnTransformer
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import (
+    accuracy_score,
+    classification_report,
+    confusion_matrix,
+)
+from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import OneHotEncoder
 
 
-# Load cleaned dataset
-df = pd.read_csv("data/cleaned_grain_data.csv")
+# --------------------------------------------------
+# 1. FILE PATHS
+# --------------------------------------------------
+
+BASE_DIR = Path(__file__).resolve().parent
+
+DATA_FILE = BASE_DIR / "data" / "cleaned_grain_data.csv"
+MODEL_DIR = BASE_DIR / "model"
+MODEL_FILE = MODEL_DIR / "grain_risk_model.pkl"
 
 
-# Create a dataset-derived prototype target
-# 1.2 ppb is the median of this dataset, NOT an official safety limit.
+# --------------------------------------------------
+# 2. LOAD DATA
+# --------------------------------------------------
+
+if not DATA_FILE.exists():
+    raise FileNotFoundError(
+        f"Dataset not found: {DATA_FILE}"
+    )
+
+df = pd.read_csv(DATA_FILE)
+
+required_columns = [
+    "Crop",
+    "PrevCrop",
+    "DryMeth",
+    "StorType",
+    "StorLeng",
+    "Altitude",
+    "Wealth",
+    "AwarMyco",
+    "TotalAfla",
+]
+
+missing_columns = [
+    column for column in required_columns
+    if column not in df.columns
+]
+
+if missing_columns:
+    raise ValueError(
+        f"Dataset is missing columns: {missing_columns}"
+    )
+
+df = df.dropna(subset=required_columns).copy()
+
+
+# --------------------------------------------------
+# 3. CREATE PROTOTYPE TARGET
+# --------------------------------------------------
+
+# 1.2 is the dataset median used for this prototype.
+# It is NOT an official aflatoxin safety threshold.
+
 df["Risk"] = df["TotalAfla"].apply(
-    lambda x: "Lower" if x <= 1.2 else "Higher"
+    lambda value: "Lower" if value <= 1.2 else "Higher"
 )
 
 
-# Separate inputs and target
-X = df.drop(["TotalAfla", "Risk"], axis=1)
+# --------------------------------------------------
+# 4. DEFINE INPUTS AND TARGET
+# --------------------------------------------------
+
+feature_columns = [
+    "Crop",
+    "PrevCrop",
+    "DryMeth",
+    "StorType",
+    "StorLeng",
+    "Altitude",
+    "Wealth",
+    "AwarMyco",
+]
+
+X = df[feature_columns].copy()
 y = df["Risk"]
 
 
-# Categorical columns
+# --------------------------------------------------
+# 5. DEFINE CATEGORICAL AND NUMERICAL FEATURES
+# --------------------------------------------------
+
 categorical_columns = [
     "Crop",
     "PrevCrop",
     "DryMeth",
-    "StorType"
+    "StorType",
+    "Wealth",
+    "AwarMyco",
 ]
 
-
-# Numerical columns
 numeric_columns = [
     "StorLeng",
     "Altitude",
-    "Wealth",
-    "AwarMyco"
 ]
 
 
-# Convert categorical values into numbers
+# --------------------------------------------------
+# 6. PREPROCESSING
+# --------------------------------------------------
+
 preprocessor = ColumnTransformer(
     transformers=[
         (
             "categorical",
             OneHotEncoder(handle_unknown="ignore"),
-            categorical_columns
-        )
-    ],
-    remainder="passthrough"
-)
-
-
-# Random Forest classifier
-model = RandomForestClassifier(
-    n_estimators=200,
-    random_state=42
-)
-
-
-# Combine preprocessing and model
-pipeline = Pipeline(
-    steps=[
-        ("preprocessor", preprocessor),
-        ("model", model)
+            categorical_columns,
+        ),
+        (
+            "numerical",
+            "passthrough",
+            numeric_columns,
+        ),
     ]
 )
 
 
-# Split the dataset
+# --------------------------------------------------
+# 7. BUILD MODEL PIPELINE
+# --------------------------------------------------
+
+classifier = RandomForestClassifier(
+    n_estimators=200,
+    random_state=42,
+    class_weight="balanced",
+)
+
+pipeline = Pipeline(
+    steps=[
+        ("preprocessor", preprocessor),
+        ("model", classifier),
+    ]
+)
+
+
+# --------------------------------------------------
+# 8. SPLIT DATA
+# --------------------------------------------------
+
 X_train, X_test, y_train, y_test = train_test_split(
     X,
     y,
     test_size=0.2,
     random_state=42,
-    stratify=y
+    stratify=y,
 )
 
 
-# Train
+# --------------------------------------------------
+# 9. TRAIN AND EVALUATE
+# --------------------------------------------------
+
 pipeline.fit(X_train, y_train)
 
-
-# Predict
 predictions = pipeline.predict(X_test)
 
-
-# Evaluate
 accuracy = accuracy_score(y_test, predictions)
 
-print("Binary classification model trained successfully!")
+print("\nModel training completed.")
 print("Training samples:", len(X_train))
 print("Testing samples:", len(X_test))
-print("Accuracy:", round(accuracy, 2))
+print("Accuracy:", round(accuracy, 4))
 
 print("\nClassification Report:")
-print(classification_report(y_test, predictions))
+print(
+    classification_report(
+        y_test,
+        predictions,
+        zero_division=0,
+    )
+)
 
 print("Confusion Matrix:")
 print(confusion_matrix(y_test, predictions))
 
 
-# Save model
-joblib.dump(pipeline, "model/grain_risk_model.pkl")
+# --------------------------------------------------
+# 10. SAVE TRAINED MODEL
+# --------------------------------------------------
 
-print("\nModel saved successfully!")
+MODEL_DIR.mkdir(parents=True, exist_ok=True)
+
+joblib.dump(pipeline, MODEL_FILE)
+
+print("\nModel saved successfully:")
+print(MODEL_FILE)
